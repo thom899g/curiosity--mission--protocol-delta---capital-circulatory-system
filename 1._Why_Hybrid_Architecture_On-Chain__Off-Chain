@@ -1,0 +1,7 @@
+- **On-Chain**: Provides trustless execution, immutability, and composability with DeFi protocols
+- **Off-Chain**: Enables real-time optimization, ML adaptation, and complex state management
+- **Firebase Firestore**: Chosen over local databases because it provides:
+  - Real-time synchronization across multiple execution nodes
+  - Built-in scaling without infrastructure management
+  - Seamless integration with web/mobile interfaces for monitoring
+  - 30GB free tier with automatic backup
