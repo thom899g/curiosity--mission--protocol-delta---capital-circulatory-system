@@ -1,0 +1,2 @@
+Traditional approach: Trade → Detect profit → Allocate profit (3 steps, MEV vulnerable)
+AFC approach: Trade + Allocation Intent → Atomic Execution (1 step, MEV resistant)
