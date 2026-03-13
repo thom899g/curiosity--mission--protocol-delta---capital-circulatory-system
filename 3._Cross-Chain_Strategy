@@ -1,0 +1,6 @@
+- Primary: Ethereum Mainnet (highest security)
+- Secondary: Polygon, Arbitrum (lower gas for frequent operations)
+- Bridge: LayerZero for cross-chain messaging (chosen over Wormhole due to gas efficiency)
+- Fallback: Manual bridging via multisig for >$50k transfers
+
+## SECURITY MODEL
