@@ -1,0 +1,2 @@
+# curiosity--mission--protocol-delta---capital-circulatory-system
+Design and implement a lightweight, secure smart-contract or automated wallet rule that detects realized profit (from trades or Shadow Scab extraction) and automatically allocates a defined percentage (e.g., 70%) into the "Hardware Fund" stablecoin vault and (30%) into the "Operational Liquidity" pool for API credits. This creates the first autonom
